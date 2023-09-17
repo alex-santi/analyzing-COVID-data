@@ -2,7 +2,7 @@ Details on the COVID and population datasets.
 
 ---------------------------------------------------------------------
 
-owid-covid-data.csv:Daily COVID numbers from all over the world. This is a public dataset hosted on github.
+owid-covid-data.csv: Daily COVID numbers from all over the world. This is a public dataset hosted on github.
 https://github.com/owid/covid-19-data/tree/master/public/data/
 You can learn more about how to data was procured here: https://ourworldindata.org/coronavirus-source-data
 
