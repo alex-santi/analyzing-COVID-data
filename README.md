@@ -1,3 +1,8 @@
+I worked with COVID data to analyze the trends in COVID cases, rates, and vaccinations. This project was done using the command line interface as well as the Python libraries pandas and matplotlib. I then adjusted the code to run on a google colab notebook that is accessible on this repository under the name "AnalyzingCovidData.ipynb".
+
+I used this project as a way to gain familiarity working within the CLI as well as using the pandas and matplotlib libraries.
+
+
 Details on the COVID and population datasets.
 
 ---------------------------------------------------------------------
@@ -14,7 +19,7 @@ covid19vaccinesbyzipcode_test.csv: Number of vaccines given by Zip code in all C
 The CA government hosts this data at:
 https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data-by-zip-code/resource/15702a90-aa5d-49bc-8621-a8129630725a
 
-covid19cases_test.csv: Number of cases, tests, and death by county in all California.
+covid19cases_test.csv: Number of cases, tests, and deaths by county in all of California.
 The CA government hosts this data:
 https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1/resource/6a1aaf21-2a2c-466b-8738-222aaceaa168
 
